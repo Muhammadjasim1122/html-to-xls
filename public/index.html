@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traffic Fine Extractor</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8fafc;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            color: #334155;
+        }
+
+        .container {
+            background: white;
+            padding: 2.5rem;
+            border-radius: 1rem;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 100%;
+            max-width: 450px;
+        }
+
+        h1 {
+            color: #0f172a;
+            margin-bottom: 0.5rem;
+            font-size: 1.875rem;
+        }
+
+        p {
+            color: #64748b;
+            margin-bottom: 2rem;
+        }
+
+        .upload-box {
+            border: 2px dashed #cbd5e1;
+            border-radius: 0.75rem;
+            padding: 2rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            margin-bottom: 1.5rem;
+            background-color: #f1f5f9;
+        }
+
+        .upload-box:hover {
+            border-color: #3b82f6;
+            background-color: #eff6ff;
+        }
+
+        #fileInput {
+            display: none;
+        }
+
+        .btn {
+            background-color: #2563eb;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            width: 100%;
+            transition: background-color 0.2s;
+        }
+
+        .btn:hover {
+            background-color: #1d4ed8;
+        }
+
+        .btn:disabled {
+            background-color: #94a3b8;
+            cursor: not-allowed;
+        }
+
+        #status {
+            margin-top: 1rem;
+            font-size: 0.875rem;
+            height: 1.25rem;
+        }
+
+        .error {
+            color: #ef4444;
+        }
+
+        .success {
+            color: #10b981;
+        }
+
+        .file-name {
+            display: block;
+            margin-top: 0.5rem;
+            font-weight: 500;
+            color: #0f172a;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Traffic Fine Extractor</h1>
+        <p>Upload your HTML or Text file to generate an Excel report.</p>
+
+        <form id="uploadForm">
+            <div class="upload-box" onclick="document.getElementById('fileInput').click()">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                    stroke="currentColor" style="width: 3rem; height: 3rem; color: #94a3b8; margin-bottom: 0.5rem;">
+                    <path stroke-linecap="round" stroke-linejoin="round"
+                        d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5m-13.5-9L12 3m0 0l4.5 4.5M12 3v13.5" />
+                </svg>
+                <div>Click to Select File</div>
+                <span id="fileName" class="file-name"></span>
+                <input type="file" id="fileInput" name="file" accept=".html,.htm,.txt,.csv" required>
+            </div>
+
+            <button type="submit" class="btn" id="submitBtn">Extract & Download Excel</button>
+        </form>
+
+        <div id="status"></div>
+    </div>
+
+    <script>
+        const fileInput = document.getElementById('fileInput');
+        const fileNameSpan = document.getElementById('fileName');
+        const form = document.getElementById('uploadForm');
+        const statusDiv = document.getElementById('status');
+        const submitBtn = document.getElementById('submitBtn');
+
+        fileInput.addEventListener('change', function () {
+            if (this.files && this.files.length > 0) {
+                fileNameSpan.textContent = this.files[0].name;
+            } else {
+                fileNameSpan.textContent = '';
+            }
+        });
+
+        form.addEventListener('submit', async function (e) {
+            e.preventDefault();
+
+            const file = fileInput.files[0];
+            if (!file) {
+                showStatus('Please select a file first.', 'error');
+                return;
+            }
+
+            const formData = new FormData();
+            formData.append('file', file);
+
+            setLoading(true);
+            showStatus('Processing...', '');
+
+            try {
+                const response = await fetch('/upload', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                if (response.ok) {
+                    const blob = await response.blob();
+                    const url = window.URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.href = url;
+                    a.download = 'TrafficFines_Extracted.xlsx';
+                    document.body.appendChild(a);
+                    a.click();
+                    window.URL.revokeObjectURL(url);
+                    a.remove();
+                    showStatus('Success! Download started.', 'success');
+                } else {
+                    const errorText = await response.text();
+                    showStatus('Error: ' + errorText, 'error');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                showStatus('Network error or server unavailable.', 'error');
+            } finally {
+                setLoading(false);
+            }
+        });
+
+        function showStatus(msg, type) {
+            statusDiv.textContent = msg;
+            statusDiv.className = type;
+        }
+
+        function setLoading(isLoading) {
+            submitBtn.disabled = isLoading;
+            submitBtn.textContent = isLoading ? 'Processing...' : 'Extract & Download Excel';
+        }
+    </script>
+
+</body>
+
+</html>

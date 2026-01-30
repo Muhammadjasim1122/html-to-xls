@@ -1,0 +1,1122 @@
+<!DOCTYPE html>
+<!-- saved from url=(0062)https://ums.rta.ae/violations/public-fines/customer-violations -->
+<html class="no-js" lang="en" dir="ltr"><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/content/location/location.js" id="eppiocemhmnlbhjplcgkofciiegomcon"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/extend-native-history-api.js"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/requests.js"></script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Roads &amp; Transport Authority</title><meta name="description" content="Description for cvsportalfrontend"><meta name="google" content="notranslate"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name="theme-color" content="#000000"><link rel="icon" href="https://ums.rta.ae/violations/favicon.ico"><link rel="manifest" href="https://ums.rta.ae/violations/manifest.webapp"><script src="./Roads &amp; Transport Authority_files/jquery.js.download"></script><script bis_use="true" type="text/javascript" charset="utf-8" data-bis-config="[&quot;facebook.com/&quot;,&quot;twitter.com/&quot;,&quot;youtube-nocookie.com/embed/&quot;,&quot;//vk.com/&quot;,&quot;//www.vk.com/&quot;,&quot;linkedin.com/&quot;,&quot;//www.linkedin.com/&quot;,&quot;//instagram.com/&quot;,&quot;//www.instagram.com/&quot;,&quot;//www.google.com/recaptcha/api2/&quot;,&quot;//hangouts.google.com/webchat/&quot;,&quot;//www.google.com/calendar/&quot;,&quot;//www.google.com/maps/embed&quot;,&quot;spotify.com/&quot;,&quot;soundcloud.com/&quot;,&quot;//player.vimeo.com/&quot;,&quot;//disqus.com/&quot;,&quot;//tgwidget.com/&quot;,&quot;//js.driftt.com/&quot;,&quot;friends2follow.com&quot;,&quot;/widget&quot;,&quot;login&quot;,&quot;//video.bigmir.net/&quot;,&quot;blogger.com&quot;,&quot;//smartlock.google.com/&quot;,&quot;//keep.google.com/&quot;,&quot;/web.tolstoycomments.com/&quot;,&quot;moz-extension://&quot;,&quot;chrome-extension://&quot;,&quot;/auth/&quot;,&quot;//analytics.google.com/&quot;,&quot;adclarity.com&quot;,&quot;paddle.com/checkout&quot;,&quot;hcaptcha.com&quot;,&quot;recaptcha.net&quot;,&quot;2captcha.com&quot;,&quot;accounts.google.com&quot;,&quot;www.google.com/shopping/customerreviews&quot;,&quot;buy.tinypass.com&quot;,&quot;gstatic.com&quot;,&quot;secureir.ebaystatic.com&quot;,&quot;docs.google.com&quot;,&quot;contacts.google.com&quot;,&quot;github.com&quot;,&quot;mail.google.com&quot;,&quot;chat.google.com&quot;,&quot;audio.xpleer.com&quot;,&quot;keepa.com&quot;,&quot;static.xx.fbcdn.net&quot;,&quot;sas.selleramp.com&quot;,&quot;1plus1.video&quot;,&quot;console.googletagservices.com&quot;,&quot;//lnkd.demdex.net/&quot;,&quot;//radar.cedexis.com/&quot;,&quot;//li.protechts.net/&quot;,&quot;challenges.cloudflare.com/&quot;,&quot;ogs.google.com&quot;]" data-dynamic-id="f21436a7-b5ee-443a-8727-65ad1969bf35" src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/executors/traffic.js"></script><!--<base href="/violations/">--><base href="."><link id="rsmod_Styles" type="text/css" rel="stylesheet" href="./Roads &amp; Transport Authority_files/ReadSpeaker.Styles-Button.css"><link rel="stylesheet" type="text/css" href="./Roads &amp; Transport Authority_files/vendors.4c73b7de48d07f1c6e53.css"><link rel="stylesheet" type="text/css" href="./Roads &amp; Transport Authority_files/299.4c73b7de48d07f1c6e53.css"><style type="text/css">.lf-progress {
+  -webkit-appearance: none;
+  -moz-apperance: none;
+  width: 100%;
+  /* margin: 0 10px; */
+  height: 4px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.lf-progress:focus {
+  outline: none;
+  border: none;
+}
+.lf-progress::-moz-range-track {
+  cursor: pointer;
+  background: none;
+  border: none;
+  outline: none;
+}
+.lf-progress::-webkit-slider-thumb {
+  -webkit-appearance: none !important;
+  height: 13px;
+  width: 13px;
+  border: 0;
+  border-radius: 50%;
+  background: #0fccce;
+  cursor: pointer;
+}
+.lf-progress::-moz-range-thumb {
+  -moz-appearance: none !important;
+  height: 13px;
+  width: 13px;
+  border: 0;
+  border-radius: 50%;
+  background: #0fccce;
+  cursor: pointer;
+}
+.lf-progress::-ms-track {
+  width: 100%;
+  height: 3px;
+  cursor: pointer;
+  background: transparent;
+  border-color: transparent;
+  color: transparent;
+}
+.lf-progress::-ms-fill-lower {
+  background: #ccc;
+  border-radius: 3px;
+}
+.lf-progress::-ms-fill-upper {
+  background: #ccc;
+  border-radius: 3px;
+}
+.lf-progress::-ms-thumb {
+  border: 0;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  background: #0fccce;
+  cursor: pointer;
+}
+.lf-progress:focus::-ms-fill-lower {
+  background: #ccc;
+}
+.lf-progress:focus::-ms-fill-upper {
+  background: #ccc;
+}
+.lf-player-container :focus {
+  outline: 0;
+}
+.lf-popover {
+  position: relative;
+}
+
+.lf-popover-content {
+  display: inline-block;
+  position: absolute;
+  opacity: 1;
+  visibility: visible;
+  transform: translate(0, -10px);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  transition: all 0.3s cubic-bezier(0.75, -0.02, 0.2, 0.97);
+}
+
+.lf-popover-content.hidden {
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(0, 0px);
+}
+
+.lf-player-btn-container {
+  display: flex;
+  align-items: center;
+}
+.lf-player-btn {
+  cursor: pointer;
+  fill: #999;
+  width: 14px;
+}
+
+.lf-player-btn.active {
+  fill: #555;
+}
+
+.lf-popover {
+  position: relative;
+}
+
+.lf-popover-content {
+  display: inline-block;
+  position: absolute;
+  background-color: #ffffff;
+  opacity: 1;
+
+  transform: translate(0, -10px);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  transition: all 0.3s cubic-bezier(0.75, -0.02, 0.2, 0.97);
+  padding: 10px;
+}
+
+.lf-popover-content.hidden {
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(0, 0px);
+}
+
+.lf-arrow {
+  position: absolute;
+  z-index: -1;
+  content: '';
+  bottom: -9px;
+  border-style: solid;
+  border-width: 10px 10px 0px 10px;
+}
+
+.lf-left-align,
+.lf-left-align .lfarrow {
+  left: 0;
+  right: unset;
+}
+
+.lf-right-align,
+.lf-right-align .lf-arrow {
+  right: 0;
+  left: unset;
+}
+
+.lf-text-input {
+  border: 1px #ccc solid;
+  border-radius: 5px;
+  padding: 3px;
+  width: 60px;
+  margin: 0;
+}
+
+.lf-color-picker {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 90px;
+}
+
+.lf-color-selectors {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.lf-color-component {
+  display: flex;
+  flex-direction: row;
+  font-size: 12px;
+  align-items: center;
+  justify-content: center;
+}
+
+.lf-color-component strong {
+  width: 40px;
+}
+
+.lf-color-component input[type='range'] {
+  margin: 0 0 0 10px;
+}
+
+.lf-color-component input[type='number'] {
+  width: 50px;
+  margin: 0 0 0 10px;
+}
+
+.lf-color-preview {
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 5px;
+}
+
+.lf-preview {
+  height: 60px;
+  width: 60px;
+}
+
+.lf-popover-snapshot {
+  width: 150px;
+}
+.lf-popover-snapshot h5 {
+  margin: 5px 0 10px 0;
+  font-size: 0.75rem;
+}
+.lf-popover-snapshot a {
+  display: block;
+  text-decoration: none;
+}
+.lf-popover-snapshot a:before {
+  content: '⥼';
+  margin-right: 5px;
+}
+.lf-popover-snapshot .lf-note {
+  display: block;
+  margin-top: 10px;
+  color: #999;
+}
+.lf-player-controls > div {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.lf-player-controls > div:first-child {
+  margin-left: 0px;
+}
+.lf-player-controls > div:last-child {
+  margin-right: 0px;
+}
+</style><style type="text/css" data-primereact-style-id="base">
+.p-hidden-accessible {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    opacity: 0;
+    overflow: hidden;
+    padding: 0;
+    pointer-events: none;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+.p-overflow-hidden {
+    overflow: hidden;
+    padding-right: var(--scrollbar-width);
+}
+</style><style type="text/css" data-primereact-style-id="global"></style><style type="text/css" data-primereact-style-id="common">
+@layer primereact {
+    .p-component, .p-component * {
+        box-sizing: border-box;
+    }
+
+    .p-hidden {
+        display: none;
+    }
+
+    .p-hidden-space {
+        visibility: hidden;
+    }
+
+    .p-reset {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        text-decoration: none;
+        font-size: 100%;
+        list-style: none;
+    }
+
+    .p-disabled, .p-disabled * {
+        cursor: default;
+        pointer-events: none;
+        user-select: none;
+    }
+
+    .p-component-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    .p-unselectable-text {
+        user-select: none;
+    }
+
+    .p-scrollbar-measure {
+        width: 100px;
+        height: 100px;
+        overflow: scroll;
+        position: absolute;
+        top: -9999px;
+    }
+
+    @-webkit-keyframes p-fadein {
+      0%   { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    @keyframes p-fadein {
+      0%   { opacity: 0; }
+      100% { opacity: 1; }
+    }
+
+    .p-link {
+        text-align: left;
+        background-color: transparent;
+        margin: 0;
+        padding: 0;
+        border: none;
+        cursor: pointer;
+        user-select: none;
+    }
+
+    .p-link:disabled {
+        cursor: default;
+    }
+
+    /* Non react overlay animations */
+    .p-connected-overlay {
+        opacity: 0;
+        transform: scaleY(0.8);
+        transition: transform .12s cubic-bezier(0, 0, 0.2, 1), opacity .12s cubic-bezier(0, 0, 0.2, 1);
+    }
+
+    .p-connected-overlay-visible {
+        opacity: 1;
+        transform: scaleY(1);
+    }
+
+    .p-connected-overlay-hidden {
+        opacity: 0;
+        transform: scaleY(1);
+        transition: opacity .1s linear;
+    }
+
+    /* React based overlay animations */
+    .p-connected-overlay-enter {
+        opacity: 0;
+        transform: scaleY(0.8);
+    }
+
+    .p-connected-overlay-enter-active {
+        opacity: 1;
+        transform: scaleY(1);
+        transition: transform .12s cubic-bezier(0, 0, 0.2, 1), opacity .12s cubic-bezier(0, 0, 0.2, 1);
+    }
+
+    .p-connected-overlay-enter-done {
+        transform: none;
+    }
+
+    .p-connected-overlay-exit {
+        opacity: 1;
+    }
+
+    .p-connected-overlay-exit-active {
+        opacity: 0;
+        transition: opacity .1s linear;
+    }
+
+    /* Toggleable Content */
+    .p-toggleable-content-enter {
+        max-height: 0;
+    }
+
+    .p-toggleable-content-enter-active {
+        overflow: hidden;
+        max-height: 1000px;
+        transition: max-height 1s ease-in-out;
+    }
+
+    .p-toggleable-content-enter-done {
+        transform: none;
+    }
+
+    .p-toggleable-content-exit {
+        max-height: 1000px;
+    }
+
+    .p-toggleable-content-exit-active {
+        overflow: hidden;
+        max-height: 0;
+        transition: max-height 0.45s cubic-bezier(0, 1, 0, 1);
+    }
+
+    /* @todo Refactor */
+    .p-menu .p-menuitem-link {
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        overflow: hidden;
+        position: relative;
+    }
+
+    
+.p-button {
+    margin: 0;
+    display: inline-flex;
+    cursor: pointer;
+    user-select: none;
+    align-items: center;
+    vertical-align: bottom;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+}
+
+.p-button-label {
+    flex: 1 1 auto;
+}
+
+.p-button-icon {
+    pointer-events: none;
+}
+
+.p-button-icon-right {
+    order: 1;
+}
+
+.p-button:disabled {
+    cursor: default;
+}
+
+.p-button-icon-only {
+    justify-content: center;
+}
+
+.p-button-icon-only .p-button-label {
+    visibility: hidden;
+    width: 0;
+    flex: 0 0 auto;
+}
+
+.p-button-vertical {
+    flex-direction: column;
+}
+
+.p-button-icon-bottom {
+    order: 2;
+}
+
+.p-button-group .p-button {
+    margin: 0;
+}
+
+.p-button-group .p-button:not(:last-child) {
+    border-right: 0 none;
+}
+
+.p-button-group .p-button:not(:first-of-type):not(:last-of-type) {
+    border-radius: 0;
+}
+
+.p-button-group .p-button:first-of-type {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.p-button-group .p-button:last-of-type {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.p-button-group .p-button:focus {
+    position: relative;
+    z-index: 1;
+}
+
+.p-button-group-single .p-button:first-of-type {
+    border-top-right-radius: var(--border-radius) !important;
+    border-bottom-right-radius: var(--border-radius) !important;
+}
+
+.p-button-group-single .p-button:last-of-type {
+    border-top-left-radius: var(--border-radius) !important;
+    border-bottom-left-radius: var(--border-radius) !important;
+}
+
+    
+.p-inputtext {
+    margin: 0;
+}
+
+.p-fluid .p-inputtext {
+    width: 100%;
+}
+
+/* InputGroup */
+.p-inputgroup {
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+}
+
+.p-inputgroup-addon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p-inputgroup .p-float-label {
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+}
+
+.p-inputgroup .p-inputtext,
+.p-fluid .p-inputgroup .p-inputtext,
+.p-inputgroup .p-inputwrapper,
+.p-fluid .p-inputgroup .p-input {
+    flex: 1 1 auto;
+    width: 1%;
+}
+
+/* Floating Label */
+.p-float-label {
+    display: block;
+    position: relative;
+}
+
+.p-float-label label {
+    position: absolute;
+    pointer-events: none;
+    top: 50%;
+    margin-top: -0.5rem;
+    transition-property: all;
+    transition-timing-function: ease;
+    line-height: 1;
+}
+
+.p-float-label textarea ~ label,
+.p-float-label .p-mention ~ label {
+    top: 1rem;
+}
+
+.p-float-label input:focus ~ label,
+.p-float-label input:-webkit-autofill ~ label,
+.p-float-label input.p-filled ~ label,
+.p-float-label textarea:focus ~ label,
+.p-float-label textarea.p-filled ~ label,
+.p-float-label .p-inputwrapper-focus ~ label,
+.p-float-label .p-inputwrapper-filled ~ label,
+.p-float-label .p-tooltip-target-wrapper ~ label {
+    top: -0.75rem;
+    font-size: 12px;
+}
+
+.p-float-label .p-placeholder,
+.p-float-label input::placeholder,
+.p-float-label .p-inputtext::placeholder {
+    opacity: 0;
+    transition-property: all;
+    transition-timing-function: ease;
+}
+
+.p-float-label .p-focus .p-placeholder,
+.p-float-label input:focus::placeholder,
+.p-float-label .p-inputtext:focus::placeholder {
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+}
+
+.p-input-icon-left,
+.p-input-icon-right {
+    position: relative;
+    display: inline-block;
+}
+
+.p-input-icon-left > i,
+.p-input-icon-right > i,
+.p-input-icon-left > svg,
+.p-input-icon-right > svg,
+.p-input-icon-left > .p-input-prefix,
+.p-input-icon-right > .p-input-suffix {
+    position: absolute;
+    top: 50%;
+    margin-top: -0.5rem;
+}
+
+.p-fluid .p-input-icon-left,
+.p-fluid .p-input-icon-right {
+    display: block;
+    width: 100%;
+}
+
+    
+.p-icon {
+    display: inline-block;
+}
+
+.p-icon-spin {
+    -webkit-animation: p-icon-spin 2s infinite linear;
+    animation: p-icon-spin 2s infinite linear;
+}
+
+svg.p-icon {
+    pointer-events: auto;
+}
+
+svg.p-icon g,
+.p-disabled svg.p-icon {
+    pointer-events: none;
+}
+
+@-webkit-keyframes p-icon-spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@keyframes p-icon-spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+}
+</style><style type="text/css" data-primereact-style-id="dropdown">
+@layer primereact {
+    .p-dropdown {
+        display: inline-flex;
+        cursor: pointer;
+        position: relative;
+        user-select: none;
+    }
+    
+    .p-dropdown-trigger {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+    }
+    
+    .p-dropdown-label {
+        display: block;
+        white-space: nowrap;
+        overflow: hidden;
+        flex: 1 1 auto;
+        width: 1%;
+        text-overflow: ellipsis;
+        cursor: pointer;
+    }
+    
+    .p-dropdown-label-empty {
+        overflow: hidden;
+        visibility: hidden;
+    }
+    
+    input.p-dropdown-label  {
+        cursor: default;
+    }
+    
+    .p-dropdown .p-dropdown-panel {
+        min-width: 100%;
+    }
+    
+    .p-dropdown-panel {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    
+    .p-dropdown-items-wrapper {
+        overflow: auto;
+    }
+    
+    .p-dropdown-item {
+        cursor: pointer;
+        font-weight: normal;
+        white-space: nowrap;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .p-dropdown-items {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+    
+    .p-dropdown-filter {
+        width: 100%;
+    }
+    
+    .p-dropdown-filter-container {
+        position: relative;
+    }
+    
+    .p-dropdown-clear-icon,
+    .p-dropdown-filter-icon,
+    .p-dropdown-filter-clear-icon {
+        position: absolute;
+        top: 50%;
+        margin-top: -.5rem;
+        right: 2rem;
+    }
+    
+    .p-fluid .p-dropdown {
+        display: flex;
+    }
+    
+    .p-fluid .p-dropdown .p-dropdown-label {
+        width: 1%;
+    }
+}
+</style><style type="text/css" data-primereact-style-id="checkbox"></style><style type="text/css" data-primereact-style-id="virtualscroller">
+.p-virtualscroller {
+    position: relative;
+    overflow: auto;
+    contain: strict;
+    transform: translateZ(0);
+    will-change: scroll-position;
+    outline: 0 none;
+}
+
+.p-virtualscroller-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    /*contain: content;*/
+    min-height: 100%;
+    min-width: 100%;
+    will-change: transform;
+}
+
+.p-virtualscroller-spacer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 1px;
+    width: 1px;
+    transform-origin: 0 0;
+    pointer-events: none;
+}
+
+.p-virtualscroller-loader {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.p-virtualscroller-loader.p-component-overlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p-virtualscroller-loading-icon {
+    font-size: 2rem;
+}
+
+.p-virtualscroller-horizontal > .p-virtualscroller-content {
+    display: flex;
+}
+
+/* Inline */
+.p-virtualscroller-inline .p-virtualscroller-content {
+    position: static;
+}
+</style><style type="text/css" data-primereact-style-id="paginator">
+@layer primereact {
+    .p-paginator {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+    .p-paginator-left-content {
+        margin-right: auto;
+    }
+    
+    .p-paginator-right-content {
+        margin-left: auto;
+    }
+    
+    .p-paginator-page,
+    .p-paginator-next,
+    .p-paginator-last,
+    .p-paginator-first,
+    .p-paginator-prev,
+    .p-paginator-current {
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        line-height: 1;
+        user-select: none;
+        overflow: hidden;
+        position: relative;
+    }
+    
+    .p-paginator-element:focus {
+        z-index: 1;
+        position: relative;
+    }
+}
+</style><style type="text/css" data-primereact-style-id="datatable">
+@layer primereact {
+    .p-datatable {
+        position: relative;
+    }
+
+    .p-datatable > .p-datatable-wrapper {
+        overflow: auto;
+    }
+
+    .p-datatable-table {
+        border-spacing: 0px;
+        width: 100%;
+    }
+
+    .p-datatable .p-sortable-disabled {
+        cursor: auto;
+    }
+
+    .p-datatable .p-sortable-column {
+        cursor: pointer;
+        user-select: none;
+    }
+
+    .p-datatable .p-sortable-column .p-column-title,
+    .p-datatable .p-sortable-column .p-sortable-column-icon,
+    .p-datatable .p-sortable-column .p-sortable-column-badge {
+        vertical-align: middle;
+    }
+
+    .p-datatable .p-sortable-column .p-sortable-column-badge {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .p-datatable-selectable .p-selectable-row,
+    .p-datatable-selectable-cell .p-selectable-cell {
+        cursor: pointer;
+    }
+
+    .p-datatable-drag-selection-helper {
+        position: absolute;
+        z-index: 99999999;
+    }
+
+    /* Scrollable */
+    .p-datatable-scrollable > .p-datatable-wrapper {
+        position: relative;
+    }
+
+    .p-datatable-scrollable-table > .p-datatable-thead {
+        position: sticky;
+        top: 0;
+        z-index: 2;
+    }
+
+    .p-datatable.p-datatable-gridlines .p-datatable-scrollable-table > .p-datatable-thead {
+        top: -1px;
+    }
+
+    .p-datatable-scrollable-table > .p-datatable-frozen-tbody {
+        position: sticky;
+        z-index: 1;
+    }
+
+    .p-datatable-scrollable-table > .p-datatable-tfoot {
+        position: sticky;
+        bottom: 0;
+        z-index: 1;
+    }
+
+    .p-datatable-scrollable .p-frozen-column {
+        position: sticky;
+        background: inherit;
+    }
+
+    .p-datatable-scrollable th.p-frozen-column {
+        z-index: 1;
+    }
+
+    .p-datatable-flex-scrollable {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .p-datatable-flex-scrollable > .p-datatable-wrapper {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        height: 100%;
+    }
+
+    .p-datatable-scrollable-table > .p-datatable-tbody > .p-rowgroup-header {
+        position: sticky;
+        z-index: 1;
+    }
+
+    /* Resizable */
+    .p-datatable-resizable-table > .p-datatable-thead > tr > th,
+    .p-datatable-resizable-table > .p-datatable-tfoot > tr > td,
+    .p-datatable-resizable-table > .p-datatable-tbody > tr > td {
+        overflow: hidden;
+        white-space: nowrap;
+    }
+
+    .p-datatable-resizable-table > .p-datatable-thead > tr > th.p-resizable-column:not(.p-frozen-column) {
+        background-clip: padding-box;
+        position: relative;
+    }
+
+    .p-datatable-resizable-table-fit > .p-datatable-thead > tr > th.p-resizable-column:last-child .p-column-resizer {
+        display: none;
+    }
+
+    .p-datatable .p-column-resizer {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        margin: 0;
+        width: 0.5rem;
+        height: 100%;
+        padding: 0px;
+        cursor: col-resize;
+        border: 1px solid transparent;
+    }
+
+    .p-datatable .p-column-header-content {
+        display: flex;
+        align-items: center;
+    }
+
+    .p-datatable .p-column-resizer-helper {
+        width: 1px;
+        position: absolute;
+        z-index: 10;
+        display: none;
+    }
+
+    .p-datatable .p-row-editor-init,
+    .p-datatable .p-row-editor-save,
+    .p-datatable .p-row-editor-cancel {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        position: relative;
+    }
+
+    /* Expand */
+    .p-datatable .p-row-toggler {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        position: relative;
+    }
+
+    /* Reorder */
+    .p-datatable-reorder-indicator-up,
+    .p-datatable-reorder-indicator-down {
+        position: absolute;
+        display: none;
+    }
+
+    .p-reorderable-column,
+    .p-datatable-reorderablerow-handle {
+        cursor: move;
+    }
+
+    /* Loader */
+    .p-datatable .p-datatable-loading-overlay {
+        position: absolute;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 2;
+    }
+
+    /* Filter */
+    .p-column-filter-row {
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
+
+    .p-column-filter-menu {
+        display: inline-flex;
+        margin-left: auto;
+    }
+
+    .p-column-filter-row .p-column-filter-element {
+        flex: 1 1 auto;
+        width: 1%;
+    }
+
+    .p-column-filter-menu-button,
+    .p-column-filter-clear-button {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        text-decoration: none;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .p-column-filter-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .p-column-filter-row-items {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    .p-column-filter-row-item {
+        cursor: pointer;
+    }
+
+    .p-column-filter-add-button,
+    .p-column-filter-remove-button {
+        justify-content: center;
+    }
+
+    .p-column-filter-add-button .p-button-label,
+    .p-column-filter-remove-button .p-button-label {
+        flex-grow: 0;
+    }
+
+    .p-column-filter-buttonbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .p-column-filter-buttonbar .p-button:not(.p-button-icon-only) {
+        width: auto;
+    }
+
+    /* Responsive */
+    .p-datatable .p-datatable-tbody > tr > td > .p-column-title {
+        display: none;
+    }
+
+    /* VirtualScroller */
+    .p-datatable-virtualscroller-spacer {
+        display: flex;
+    }
+
+    .p-datatable .p-virtualscroller .p-virtualscroller-loading {
+        transform: none;
+        min-height: 0;
+        position: sticky;
+        top: 0;
+        left: 0;
+    }
+
+    /* Alignment */
+    .p-datatable .p-datatable-thead > tr > th.p-align-left > .p-column-header-content,
+    .p-datatable .p-datatable-tbody > tr > td.p-align-left,
+    .p-datatable .p-datatable-tfoot > tr > td.p-align-left {
+        text-align: left;
+        justify-content: flex-start;
+    }
+
+    .p-datatable .p-datatable-thead > tr > th.p-align-right > .p-column-header-content,
+    .p-datatable .p-datatable-tbody > tr > td.p-align-right,
+    .p-datatable .p-datatable-tfoot > tr > td.p-align-right {
+        text-align: right;
+        justify-content: flex-end;
+    }
+
+    .p-datatable .p-datatable-thead > tr > th.p-align-center > .p-column-header-content,
+    .p-datatable .p-datatable-tbody > tr > td.p-align-center,
+    .p-datatable .p-datatable-tfoot > tr > td.p-align-center {
+        text-align: center;
+        justify-content: center;
+    }
+}
+</style></head><body __processed_809042f5-ccba-49ac-92db-2e3034cf933e__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMzgiLCJzY29yZSI6MjAwMzgwfV0=" data-rsevent-id="rs_570710"><!--[if lt IE 9]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]--><div id="root" bis_skin_checked="1"><div bis_skin_checked="1"><div class="app-container" bis_skin_checked="1"><div class="Toastify" bis_skin_checked="1"></div><header class="RTAHeader"><div class="newHeaderRTA" bis_skin_checked="1"><div class="dda-container" bis_skin_checked="1"><div class="logosSection" bis_skin_checked="1"><a href="https://www.digitaldubai.ae/" title="Government of Dubai" class="governmentDubai _updated" bis_size="{&quot;x&quot;:125,&quot;y&quot;:25,&quot;w&quot;:160,&quot;h&quot;:68,&quot;abs_x&quot;:125,&quot;abs_y&quot;:25}"><img src="./Roads &amp; Transport Authority_files/Dubai_Logo_New.svg" bis_size="{&quot;x&quot;:125,&quot;y&quot;:25,&quot;w&quot;:160,&quot;h&quot;:64,&quot;abs_x&quot;:125,&quot;abs_y&quot;:25}" bis_id="bn_5kg3krvti2oeczhz00d9yu"></a><a href="https://www.rta.ae/wps/portal/rta/ae/home" title="RTA Dubai" class="RTADubai _updated"><img src="./Roads &amp; Transport Authority_files/RTA.png"></a></div><div class="mobileLogoSection" bis_skin_checked="1"><button class="_navbar-toggle" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" id="iconMenu"><i></i><i></i><i></i><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#close"></use></svg></button><a href="https://www.smartdubai.ae/ar/home-page" title="RTA Dubai" class="rta-replace"><img src="./Roads &amp; Transport Authority_files/RTA.png"></a><div class="loginOption" bis_skin_checked="1"><span class="searchcomponent"><img src="./Roads &amp; Transport Authority_files/search.png"></span></div></div><nav id="mainMenu" class="mainMenu"><ul class="MagaMenu"><li><a href="https://www.rta.ae/wps/portal/rta/ae/home?lang=en">Home</a><ul><li><a href="javascript:chatonline();">About RTA</a><ul><li><a class="titleSubMenu" href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/?lang=en">Learn more about RTA</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/explore-rta?lang=en">Explore RTA</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/board-of-executive-directors?lang=en">Board of the Executive Directors</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/explore-rta#tab-our-awards?lang=en">Our Awards</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/promotions-and-campaigns?lang=en">Campaigns and promotions</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/cyber-security?lang=en">Cyber Security Awareness</a></li></ul></li><li><a href="javascript:chatonline();">Media Center</a><ul><li><a class="titleSubMenu" href="https://www.rta.ae/wps/portal/rta/ae/home/news-and-media?lang=en">Discover our media center</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news?lang=en">News</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/AllProjects?lang=en">Projects</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-photos?lang=en">Photos</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/al-masar-digital?lang=en">Newsletter</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/salama-magazine?lang=en">Salama Magazine</a></li></ul></li><li><a href="javascript:chatonline();">Open Data</a><ul><li><a class="titleSubMenu" href="https://www.rta.ae/wps/portal/rta/ae/home/open-data?lang=en">Discover our open data</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/open-data/agencies-legislation?lang=en">Agencies Legislation</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/open-data/corporate-support-services?lang=en">Corporate Technology Support Services Sector</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/open-data/corporate-administrative-support-sector?lang=en">Corporate Administrative Support Sector</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/open-data/public-transport-legislations?lang=en">Public Transport Legislations</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/open-data/traffic-road-legislations?lang=en">Traffic and Road Legislations</a></li></ul></li><li><a href="javascript:chatonline();">Services</a><ul><li><a class="titleSubMenu" href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services?lang=en">View all services</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services?category=1&amp;lang=en">View drivers and car owner services</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services?category=2&amp;lang=en">View public transport services</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services?category=3&amp;lang=en"> View business and corporate services</a></li></ul></li><li><a href="javascript:chatonline();">Careers</a><ul><li><a class="titleSubMenu" href="https://jobs.dubaicareers.ae/careersection/eyov4z5qhfjnsykw9q149t4es7/jobsearch.ftl?lang=en">RTA careers</a></li><li><a href="https://jobs.dubaicareers.ae/careersection/iam/accessmanagement/login.jsf?redirectionURI=https://jobs.dubaicareers.ae/careersection/eyov4z5qhfjnsykw9q149t4es7/mysubmissions.ftl&amp;TARGET=https://jobs.dubaicareers.ae/careersection/eyov4z5qhfjnsykw9q149t4es7/mysubmissions.ftl">My Jobpage</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/careers/student-training-request?lang=en">Student Internship and Training</a></li></ul></li><li><a href="javascript:chatonline();">Contact us</a><ul><li><a class="titleSubMenu" href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/contactus#ContactInformation?lang=en">Contact information</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/contactus/faqs?lang=en">Service FAQs</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/contactus#customer-happiness?lang=en">Customer happiness center locations</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/contactus#findus?lang=en">Find us</a></li><li><a href="https://www.rta.ae/CRMPortal/TrackCaseAndFeedback/TrackCase/search?LocaleKey=en">Track CRM Case</a></li></ul></li><li><a href="javascript:chatonline();">RTA Community Engagement Platform</a><ul><li><a class="titleSubMenu" href="https://www.rta.ae/wps/portal/rta/ae/home/madinati?lang=en">Explore Our Community Engagement Platform</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/madinati/before-after?lang=en">Impact of RTA Projects &amp; Initiatives (Before / After)</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/madinati/majlis?lang=en">Customer Council (Majlis)</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/madinati/surveys?lang=en">Surveys</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/madinati/polls?lang=en">Polls</a></li></ul></li></ul></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/driver-and-carowner">Driver &amp; Car Owner</a><ul><li><a href="javascript:chatonline();">Vehicle Licensing</a><ul><li><a class="titleSubMenu" href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=17929036&amp;lang=en">Pay Vehicle Fines</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=17756887&amp;lang=en">Renew and Amend Vehicle Data Ownership</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=17711769&amp;lang=en">Apply for Registering a New Vehicle</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=17809236&amp;lang=en">Manage Vehicle Plates</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=17750756&amp;lang=en">Apply for Purchasing a Special Plate Number</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/driver-and-carowner/vehicle-licensing/vehicle-inquiry&amp;lang=en">Inquiring for vehicles or plates ownership</a></li></ul></li><li><a href="javascript:chatonline();">Drivers Licensing</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=17880869&amp;lang=en">Apply for or Manage a Driving Licence</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=3704301&amp;lang=en">UAE driving license using foreign license</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=17677653&amp;lang=en">Apply for Booking and Changing a Driving Test Appointment</a></li></ul></li><li><a href="javascript:void(0)">Parking</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/driver-and-carowner/parking/parking-services?lang=en">Parking Services</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/driver-and-carowner/parking/SeasonalParkingCard?lang=en">Seasonal parking permits</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/driver-and-carowner/parking/pay-parking-fines?lang=en">Pay Public Parking Fines</a></li></ul></li></ul></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport">Public Transport</a><ul><li><a href="javascript:void(0)">nol</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/Nol-Home?lang=en">Explore nol</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/About-Nol-Card/?lang=en">About nol cards</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/nol/choose-nol?lang=en">Choose nol</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/Nol-Fares?lang=en"> nol fares</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services?classification=1&amp;lang=en">nol services</a></li><li><a href="https://www.nolplus.ae/LoyaltyWeb/home?lang=en">nol Plus</a></li></ul></li><li><a href="javascript:void(0)">Bus</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/dubaibus?lang=en">About Dubai Bus</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/dubai-bus-station/?lang=en">Dubai Bus stations</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/journeyplanner?lang=en">Plan your journey</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/timetable?lang=en#BusStations">Dubai Bus Timetables</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/dispute-form?lang=en">Dispute Fines</a></li><li><a href="https://bustickets.rta.ae/b2c/ticketSale/trip?category=LOCATION&amp;locale=en-GB">Book your intercity tickets</a></li></ul></li><li><a href="javascript:void(0)">Metro</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/metro/about-metro?lang=en">About Dubai metro</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/journeyplanner?lang=en">Plan your journey</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/timetable?lang=en#DubaiMetro">Dubai metro timetables</a></li></ul></li><li><a href="javascript:void(0)">Tram</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/tram/about-tram?lang=en">About Dubai Tram</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/journeyplanner?lang=en">Plan your journey</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/timetable?lang=en#DubaiTram">Dubai tram timetables</a></li></ul></li><li><a href="javascript:void(0)">Taxi</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/taxi/dubaitaxi?lang=en">About Dubai Taxi</a></li><li><a href="https://www.dubaitaxi.ae/en/our-services/taxi?lang=en">Dubai Taxi services</a></li><li><a href="https://www.dubaitaxi.ae/en/our-services/special-needs-taxi?lang=en">Taxi for people of determination</a></li><li><a href="https://www.dubaitaxi.ae/en/our-services/ladies-and-family-taxi?lang=en">Taxi for females</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=3704595&amp;lang=en">Limousines and luxury vehicles</a></li></ul></li><li><a href="javascript:void(0)">Marine</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/marine/about-marine?lang=en">About Marine</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/timetable?lang=en#MarineTransport">Marine Transport timetables</a></li><li><a href="https://marine.rta.ae/?lang=en">Book Marine Tickets</a></li><li><a href="https://www.rta.ae/wps/myportal/rta/ae/corporate-services/transport-business/vessels-short-rental?lang=en">Apply for Tajeer Marine Vessels</a></li></ul></li><li class="noChild"><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport/timetable?lang=en">Timetable</a></li><li class="noChild"><a href="https://www.rta.ae/wps/portal/rta/ae/dispute-form?lang=en">Dispute Fines</a></li></ul></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/corporate-services">Business &amp; Corporate</a><ul><li><a href="javascript:void(0)">Invest with RTA</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/corporate-services/invest-with-rta/why-invest-with-rta?lang=en">Why invest with RTA</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/corporate-services/invest-with-rta/investment-opportunities?lang=en">Investment opportunities</a></li></ul></li><li><a href="javascript:void(0)">Transportation</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/corporate-services/transport-business/tajeer-bus?lang=en">Short Term Bus Rental</a></li><li><a href="https://www.rta.ae/wps/myportal/rta/ae/corporate-services/naqel?lang=en">Naqel service</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=3704590&amp;lang=en">Permit to Transport Passengers in Taxis</a></li></ul></li><li><a href="javascript:void(0)">Institutes</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=3704418&amp;lang=en">Apply to Register as a Driver Licensing Service Provider</a></li></ul></li><li><a href="javascript:void(0)">Vendors</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/contractors-suppliers?lang=en">Vendors E-Qualifications</a></li></ul></li><li><a href="javascript:void(0)">NOC</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=17620746&amp;lang=en">NOC For A New Trade Licence</a></li><li><a href="https://traffic.rta.ae/trfesrv/public_resources/revamp/common/public_request_service_info.do?CSRF3k7b0s=-1g4307kqlw1w4&amp;serviceCode=816&amp;entityId=-1&amp;switchLanguage=en&amp;noCache=1510959262586">NOC to Hire a Luxury Vehicle Driver</a></li></ul></li><li><a href="javascript:void(0)">Licensing</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=17777187&amp;lang=en">Applying for a Commercial Licence Plate</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=17620746&amp;lang=en">Applying for an NOC for a new Trade Licence</a></li></ul></li><li><a href="javascript:void(0)">Right of way</a><ul><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=3704548&amp;lang=en">Permit to use part of the road</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=3704552&amp;lang=en">Permit to close a street for a certain occasion</a></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=3704562&amp;lang=en">Utilise Pavements by Restaurants and Coffee Shops</a></li></ul></li></ul></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/pod/?lang=en">People Of Determination</a></li></ul><button class="_navbar-toggle" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" id="iconMenu"><i></i><i></i><i></i></button><ul class="loginOption"><li><span class="__actions RTASearch"><div class="searchcomponent" bis_skin_checked="1"><img src="./Roads &amp; Transport Authority_files/search.png">Search..</div></span></li><li><span id="accessBtn" class="__actions"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#wheel-chair"></use></svg><div class="mr-loading-div" bis_skin_checked="1"></div></span></li><li><span class="__actions ">العربية</span></li><li><span id="otherLanguageBtn" class="__actions"><svg class="icon-glang p-2 mr-font-size" role="img" mr-org-fnt-size="8.75px"><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#globe" class="mr-font-size" mr-org-fnt-size="8.75px"></use></svg></span></li><li><span class="__actions loginUserAction "><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#user"></use></svg>Login</span><div class="logOutDropdown" bis_skin_checked="1"><h3>Login</h3><a href="https://www.rta.ae/wps/myportal/rta/ae/home/dashboard?lang=en">Individual / Company</a><a href="https://www.rta.ae/trustedagents?lang=en">Trusted agent</a><h3 class="push">Don't have an account?</h3><a class="btn" href="https://www.rta.ae/wps/portal/rta/ae/home/registration?lang=en">Create an account</a></div></li></ul></nav><div class="side-nav" bis_skin_checked="1"><div class="side-nav_container" bis_skin_checked="1"><div class="side-nav_content" bis_skin_checked="1"><h4 class="side-nav_title">MAIN MENU</h4><div class="sidenav" bis_skin_checked="1"><a href="https://www.rta.ae/wps/portal/rta/ae/home?lang=en">Home</a><a href="https://www.rta.ae/wps/portal/rta/ae/driver-and-carowner?lang=en">Driver &amp; Car Owner</a><a href="https://www.rta.ae/wps/portal/rta/ae/public-transport?lang=en">Public Transport</a><a href="https://www.rta.ae/wps/portal/rta/ae/corporate-services?lang=en">Business &amp; Corporate</a><a href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta?lang=en">About RTA</a><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services?lang=en">Our Services</a><a href="https://www.rta.ae/wps/portal/rta/ae/home/open-data?lang=en">Open Data</a><a href="https://www.rta.ae/wps/portal/rta/ae/home/promotions-and-campaigns?lang=en">Campaigns and promotions</a><a href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/contactus?lang=en">Contact us</a></div></div><div class="dda-d-flex flex-column dda-side-nav__footer" bis_skin_checked="1"><ul class="loginOption"><li><span id="mobileAccessBtn" class="__actions"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#wheel-chair"></use></svg></span></li><li><span class="__actions ">العربية</span></li><li><span id="mobileOtherLanguageBtn" class="__actions"><svg class="icon-glang p-2 mr-font-size" role="img" mr-org-fnt-size="8.75px"><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#globe" class="mr-font-size" mr-org-fnt-size="8.75px"></use></svg></span></li><li><span class="__actions loginUserAction "><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#user"></use></svg>Login</span></li></ul><img src="./Roads &amp; Transport Authority_files/Dubai_Logo_New.svg" alt="Dubai government logo" width="110"></div></div><div class="logOutDropdown" bis_skin_checked="1"><h3>Login</h3><a href="https://www.rta.ae/wps/myportal/rta/ae/home/dashboard?lang=en">Individual / Company</a><a href="https://www.rta.ae/trustedagents">Trusted agent</a><h3 class="push">Don't have an account?</h3><a class="btn" href="https://www.rta.ae/wps/portal/rta/ae/home/registration?lang=en">Create an account</a></div></div></div></div></header><div class="container umsPortal" bis_skin_checked="1"><div class="view-routes" bis_skin_checked="1"><div class="fines-violation-holder" bis_skin_checked="1"><div class="page-content" bis_skin_checked="1"><div class="container" bis_skin_checked="1"><ul class="list-unstyled list-inline topBratcramp"><li><a href="https://www.rta.ae/wps/portal/rta/ae/home">Home</a></li><li><a href="https://ums.rta.ae/violations/public-fines/fines-search">Search for Fines</a></li><li>Fines Inquiry and Payment</li></ul><h3 class="screen-title">Fines Inquiry and Payment</h3><div class="filteredTabs" bis_skin_checked="1"><ul class="list-unstyled"><li id="Id_FinesTab" class="fines active" dir="auto">Payable Fines <span class="filter-tab-badge">16</span></li><li id="Id_ViolationsTab" class="violations " dir="auto">Non-Payable Fines </li><li id="Id_BlackpointsTab" class="violations " dir="auto">Payable Black Points </li></ul></div><div class="fine_Violations" bis_skin_checked="1"><h2>Payable Fines</h2><h5 class="subtitle-description">Fines that can be cleared without referring to the source authority.</h5><div class="totalNum" bis_skin_checked="1"><div bis_skin_checked="1"><button data-testid="ButtonComponent" id="Id_PayAll" class="BtnStyle">Pay all <span id="Id_totalAmountLbl">AED 6,150</span></button><button data-testid="ButtonComponent" class="BtnStyle BtnCancel">New Search</button></div></div><div class="row fines_violation_list" bis_skin_checked="1"><div class="col-sm-12" bis_skin_checked="1"><div class="filter-fines" bis_skin_checked="1"><div class="left" bis_skin_checked="1"><div class="source" bis_skin_checked="1"><div data-testid="DropDownComponent" class="GC_Dropdown undefined" bis_skin_checked="1"><label class="" for="Id_FinesSource">Show</label><div id="Id_FinesSource" class="p-dropdown p-component p-inputwrapper p-dropdown-clearable" data-p-focus="false" data-pc-name="dropdown" data-pc-section="root" bis_skin_checked="1"><div class="p-hidden-accessible" data-pc-section="hiddenselectedmessage" bis_skin_checked="1"><input type="text" readonly="" aria-haspopup="listbox" tabindex="0" data-pc-section="input" value="" id="Id_FinesSource"></div><div class="p-hidden-accessible p-dropdown-hidden-select" data-pc-section="hiddenselectedmessage" bis_skin_checked="1"><select tabindex="-1" data-pc-section="select"><option value="" data-pc-section="option" selected="">Fine Source</option></select></div><span class="p-dropdown-label p-inputtext p-placeholder" tabindex="-1" data-pc-section="input"><span>Fine Source</span></span><div class="p-dropdown-trigger" role="button" aria-haspopup="listbox" aria-expanded="false" aria-label="Fine Source" data-pc-section="trigger" bis_skin_checked="1"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" class="p-icon p-dropdown-trigger-icon p-clickable" data-pr-overlay-visible="false" data-pc-section="dropdownicon"><path d="M7.01744 10.398C6.91269 10.3985 6.8089 10.378 6.71215 10.3379C6.61541 10.2977 6.52766 10.2386 6.45405 10.1641L1.13907 4.84913C1.03306 4.69404 0.985221 4.5065 1.00399 4.31958C1.02276 4.13266 1.10693 3.95838 1.24166 3.82747C1.37639 3.69655 1.55301 3.61742 1.74039 3.60402C1.92777 3.59062 2.11386 3.64382 2.26584 3.75424L7.01744 8.47394L11.769 3.75424C11.9189 3.65709 12.097 3.61306 12.2748 3.62921C12.4527 3.64535 12.6199 3.72073 12.7498 3.84328C12.8797 3.96582 12.9647 4.12842 12.9912 4.30502C13.0177 4.48162 12.9841 4.662 12.8958 4.81724L7.58083 10.1322C7.50996 10.2125 7.42344 10.2775 7.32656 10.3232C7.22968 10.3689 7.12449 10.3944 7.01744 10.398Z" fill="currentColor"></path></svg></div></div></div></div><div class="plCategory" bis_skin_checked="1"><div data-testid="DropDownComponent" class="GC_Dropdown m-t-21" bis_skin_checked="1"><div id="Id_FinesPlateCategory" class="p-dropdown p-component p-inputwrapper p-dropdown-clearable" data-p-focus="false" data-pc-name="dropdown" data-pc-section="root" bis_skin_checked="1"><div class="p-hidden-accessible" data-pc-section="hiddenselectedmessage" bis_skin_checked="1"><input type="text" readonly="" aria-haspopup="listbox" tabindex="0" data-pc-section="input" value="" id="Id_FinesPlateCategory"></div><div class="p-hidden-accessible p-dropdown-hidden-select" data-pc-section="hiddenselectedmessage" bis_skin_checked="1"><select tabindex="-1" data-pc-section="select"><option value="" data-pc-section="option" selected="">Category</option></select></div><span class="p-dropdown-label p-inputtext p-placeholder" tabindex="-1" data-pc-section="input"><span>Category</span></span><div class="p-dropdown-trigger" role="button" aria-haspopup="listbox" aria-expanded="false" aria-label="Category" data-pc-section="trigger" bis_skin_checked="1"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" class="p-icon p-dropdown-trigger-icon p-clickable" data-pr-overlay-visible="false" data-pc-section="dropdownicon"><path d="M7.01744 10.398C6.91269 10.3985 6.8089 10.378 6.71215 10.3379C6.61541 10.2977 6.52766 10.2386 6.45405 10.1641L1.13907 4.84913C1.03306 4.69404 0.985221 4.5065 1.00399 4.31958C1.02276 4.13266 1.10693 3.95838 1.24166 3.82747C1.37639 3.69655 1.55301 3.61742 1.74039 3.60402C1.92777 3.59062 2.11386 3.64382 2.26584 3.75424L7.01744 8.47394L11.769 3.75424C11.9189 3.65709 12.097 3.61306 12.2748 3.62921C12.4527 3.64535 12.6199 3.72073 12.7498 3.84328C12.8797 3.96582 12.9647 4.12842 12.9912 4.30502C13.0177 4.48162 12.9841 4.662 12.8958 4.81724L7.58083 10.1322C7.50996 10.2125 7.42344 10.2775 7.32656 10.3232C7.22968 10.3689 7.12449 10.3944 7.01744 10.398Z" fill="currentColor"></path></svg></div></div></div></div><div class="plCode " bis_skin_checked="1"><div data-testid="DropDownComponent" class="GC_Dropdown m-t-21" bis_skin_checked="1"><div id="Id_FinesPlateCode" class="p-dropdown p-component p-inputwrapper p-disabled" data-p-disabled="true" data-p-focus="false" data-pc-name="dropdown" data-pc-section="root" bis_skin_checked="1"><div class="p-hidden-accessible" data-pc-section="hiddenselectedmessage" bis_skin_checked="1"><input type="text" readonly="" aria-haspopup="listbox" disabled="" tabindex="-1" data-pc-section="input" value="" id="Id_FinesPlateCode"></div><div class="p-hidden-accessible p-dropdown-hidden-select" data-pc-section="hiddenselectedmessage" bis_skin_checked="1"><select tabindex="-1" data-pc-section="select"><option value="" data-pc-section="option" selected="">Code</option></select></div><span class="p-dropdown-label p-inputtext p-placeholder" tabindex="-1" data-pc-section="input"><span>Code</span></span><div class="p-dropdown-trigger" role="button" aria-haspopup="listbox" aria-expanded="false" aria-label="Code" data-pc-section="trigger" bis_skin_checked="1"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" class="p-icon p-dropdown-trigger-icon p-clickable" data-pr-overlay-visible="false" data-pc-section="dropdownicon"><path d="M7.01744 10.398C6.91269 10.3985 6.8089 10.378 6.71215 10.3379C6.61541 10.2977 6.52766 10.2386 6.45405 10.1641L1.13907 4.84913C1.03306 4.69404 0.985221 4.5065 1.00399 4.31958C1.02276 4.13266 1.10693 3.95838 1.24166 3.82747C1.37639 3.69655 1.55301 3.61742 1.74039 3.60402C1.92777 3.59062 2.11386 3.64382 2.26584 3.75424L7.01744 8.47394L11.769 3.75424C11.9189 3.65709 12.097 3.61306 12.2748 3.62921C12.4527 3.64535 12.6199 3.72073 12.7498 3.84328C12.8797 3.96582 12.9647 4.12842 12.9912 4.30502C13.0177 4.48162 12.9841 4.662 12.8958 4.81724L7.58083 10.1322C7.50996 10.2125 7.42344 10.2775 7.32656 10.3232C7.22968 10.3689 7.12449 10.3944 7.01744 10.398Z" fill="currentColor"></path></svg></div></div></div></div><div class="plNumber" bis_skin_checked="1"><div class="GC_inputForm m-t-21" data-testid="InputFormComponent" bis_skin_checked="1"><input class="p-inputtext p-component" id="Id_FinesPlateNo" type="text" placeholder="Plate Number" maxlength="6" data-testid="InputComponent" data-pc-name="inputtext" data-pc-section="root" value=""></div></div><div class="search" bis_skin_checked="1"><div class="search-input-holder m-t-21" bis_skin_checked="1"><div class="GC_inputForm undefined" data-testid="InputFormComponent" bis_skin_checked="1"><input class="p-inputtext p-component" id="Id_FinesSearchInput" type="text" placeholder="Search by Brand or Ticket No..." data-testid="InputComponent" data-pc-name="inputtext" data-pc-section="root" value=""></div></div></div><div class="action" bis_skin_checked="1"><button data-testid="ButtonComponent" id="Id_FinesSearch" class="BtnStyle m-t-21"></button></div></div><div class="right" bis_skin_checked="1"><div class="sort" bis_skin_checked="1"><div data-testid="DropDownComponent" class="GC_Dropdown undefined" bis_skin_checked="1"><label class="" for="Id_FinesSort">Sort</label><div id="Id_FinesSort" class="p-dropdown p-component p-inputwrapper p-inputwrapper-filled" data-p-focus="false" data-pc-name="dropdown" data-pc-section="root" bis_skin_checked="1"><div class="p-hidden-accessible" data-pc-section="hiddenselectedmessage" bis_skin_checked="1"><input type="text" readonly="" aria-haspopup="listbox" tabindex="0" data-pc-section="input" value="Date (new-old)" id="Id_FinesSort"></div><div class="p-hidden-accessible p-dropdown-hidden-select" data-pc-section="hiddenselectedmessage" bis_skin_checked="1"><select tabindex="-1" data-pc-section="select"><option value="0" data-pc-section="option" selected="">Date (new-old)</option></select></div><span class="p-dropdown-label p-inputtext" tabindex="-1" data-pc-section="input"><div class="item item-value" bis_skin_checked="1"><div bis_skin_checked="1">Date (new-old)</div></div></span><div class="p-dropdown-trigger" role="button" aria-haspopup="listbox" aria-expanded="false" data-pc-section="trigger" bis_skin_checked="1"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" class="p-icon p-dropdown-trigger-icon p-clickable" data-pr-overlay-visible="false" data-pc-section="dropdownicon"><path d="M7.01744 10.398C6.91269 10.3985 6.8089 10.378 6.71215 10.3379C6.61541 10.2977 6.52766 10.2386 6.45405 10.1641L1.13907 4.84913C1.03306 4.69404 0.985221 4.5065 1.00399 4.31958C1.02276 4.13266 1.10693 3.95838 1.24166 3.82747C1.37639 3.69655 1.55301 3.61742 1.74039 3.60402C1.92777 3.59062 2.11386 3.64382 2.26584 3.75424L7.01744 8.47394L11.769 3.75424C11.9189 3.65709 12.097 3.61306 12.2748 3.62921C12.4527 3.64535 12.6199 3.72073 12.7498 3.84328C12.8797 3.96582 12.9647 4.12842 12.9912 4.30502C13.0177 4.48162 12.9841 4.662 12.8958 4.81724L7.58083 10.1322C7.50996 10.2125 7.42344 10.2775 7.32656 10.3232C7.22968 10.3689 7.12449 10.3944 7.01744 10.398Z" fill="currentColor"></path></svg></div></div></div></div></div></div></div><div class="col-sm-12 col-md-12 col-lg-8" bis_skin_checked="1"><div id="Id_FinesResultTable" class="p-datatable p-component p-datatable-selectable p-datatable-responsive-scroll" data-scrollselectors=".p-datatable-wrapper" data-showgridlines="false" data-pc-name="datatable" data-pc-section="root" pr_id_39="" bis_skin_checked="1"><div class="p-datatable-wrapper" data-pc-section="wrapper" bis_skin_checked="1" style="overflow: auto;"><table class="p-datatable-table" role="table" data-pc-section="table"><thead class="p-datatable-thead" role="rowgroup" data-pc-name="datatable" data-pc-section="thead"><tr role="row" data-pc-section="headerrow"><th class="p-selection-column" role="columnheader" data-p-sortable-column="false" data-p-resizable-column="false" data-p-filter-column="false" data-p-frozen-column="false" data-p-reorderable-column="false" data-pc-name="datatable" data-pc-section="headercell" style="width: 3em;"><div class="p-column-header-content" data-pc-section="headercontent" bis_skin_checked="1"><span class="p-column-title" data-pc-section="headertitle"></span><div class="p-checkbox p-component" data-p-highlight="false" data-p-disabled="false" role="checkbox" aria-checked="false" aria-label="All items unselected" data-pc-name="checkbox" data-pc-section="root" bis_skin_checked="1"><input type="checkbox" class="p-checkbox-input" aria-invalid="false" aria-checked="false" aria-label="All items unselected" data-pc-section="input" tabindex="0"><div class="p-checkbox-box" data-p-highlight="false" data-p-disabled="false" data-pc-section="box" bis_skin_checked="1"></div></div></div></th><th role="columnheader" data-p-sortable-column="false" data-p-resizable-column="false" data-p-filter-column="false" data-p-frozen-column="false" data-p-reorderable-column="false" data-pc-name="datatable" data-pc-section="headercell"><div class="p-column-header-content" data-pc-section="headercontent" bis_skin_checked="1"><span class="p-column-title" data-pc-section="headertitle"></span></div></th></tr></thead><tbody class="p-datatable-tbody" role=" rowgroup" data-pc-section="tbody"><tr role="row" aria-selected="false" data-p-selectable-row="false" data-p-highlight="false" data-p-highlight-contextmenu="false" data-pc-section="bodyrow" draggable="false"><td class="p-selection-column" role="cell" data-p-selectable-cell="false" data-p-selection-column="true" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="p-checkbox p-component" data-p-highlight="false" data-p-disabled="false" role="checkbox" aria-checked="false" aria-label="Row Selected TCK_170163970" data-pc-name="checkbox" data-pc-section="root" bis_skin_checked="1"><input type="checkbox" class="p-checkbox-input" tabindex="0" aria-invalid="false" aria-checked="false" aria-label="Row Selected TCK_170163970" data-pc-section="input"><div class="p-checkbox-box" data-p-highlight="false" data-p-disabled="false" data-pc-section="box" bis_skin_checked="1"></div></div></td><td role="cell" data-p-selectable-cell="false" data-p-selection-column="false" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="finesRowList" bis_skin_checked="1"><div bis_skin_checked="1">AUDI A6,  2022,  Black</div><div bis_skin_checked="1"><span>Date and Time of Issuing The Fine</span>19 Jan 2026, 5:56 pm</div><div bis_skin_checked="1"><span>Amount</span>AED 400</div><div bis_skin_checked="1"><span>Source</span>Dubai Police</div><div bis_skin_checked="1"><span>Black points</span> - </div></div></td></tr><tr role="row" class="p-row-odd" aria-selected="false" data-p-selectable-row="false" data-p-highlight="false" data-p-highlight-contextmenu="false" data-pc-section="bodyrow" draggable="false"><td class="p-selection-column" role="cell" data-p-selectable-cell="false" data-p-selection-column="true" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="p-checkbox p-component" data-p-highlight="false" data-p-disabled="false" role="checkbox" aria-checked="false" aria-label="Row Selected TCK_170155546" data-pc-name="checkbox" data-pc-section="root" bis_skin_checked="1"><input type="checkbox" class="p-checkbox-input" tabindex="0" aria-invalid="false" aria-checked="false" aria-label="Row Selected TCK_170155546" data-pc-section="input"><div class="p-checkbox-box" data-p-highlight="false" data-p-disabled="false" data-pc-section="box" bis_skin_checked="1"></div></div></td><td role="cell" data-p-selectable-cell="false" data-p-selection-column="false" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="finesRowList" bis_skin_checked="1"><div bis_skin_checked="1">BMW 330I 2022,  White</div><div bis_skin_checked="1"><span>Date and Time of Issuing The Fine</span>18 Jan 2026, 3:46 pm</div><div bis_skin_checked="1"><span>Amount</span>AED 500</div><div bis_skin_checked="1"><span>Source</span>Dubai Police</div><div bis_skin_checked="1"><span>Black points</span> - </div></div></td></tr><tr role="row" aria-selected="false" data-p-selectable-row="false" data-p-highlight="false" data-p-highlight-contextmenu="false" data-pc-section="bodyrow" draggable="false"><td class="p-selection-column" role="cell" data-p-selectable-cell="false" data-p-selection-column="true" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="p-checkbox p-component" data-p-highlight="false" data-p-disabled="false" role="checkbox" aria-checked="false" aria-label="Row Selected TCK_170139329" data-pc-name="checkbox" data-pc-section="root" bis_skin_checked="1"><input type="checkbox" class="p-checkbox-input" tabindex="0" aria-invalid="false" aria-checked="false" aria-label="Row Selected TCK_170139329" data-pc-section="input"><div class="p-checkbox-box" data-p-highlight="false" data-p-disabled="false" data-pc-section="box" bis_skin_checked="1"></div></div></td><td role="cell" data-p-selectable-cell="false" data-p-selection-column="false" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="finesRowList" bis_skin_checked="1"><div bis_skin_checked="1">AUDI A6,  2022,  Black</div><div bis_skin_checked="1"><span>Date and Time of Issuing The Fine</span>18 Jan 2026, 5:32 am</div><div bis_skin_checked="1"><span>Amount</span>AED 700</div><div bis_skin_checked="1"><span>Source</span>Dubai Police</div><div bis_skin_checked="1"><span>Black points</span> - </div></div></td></tr><tr role="row" class="p-row-odd" aria-selected="false" data-p-selectable-row="false" data-p-highlight="false" data-p-highlight-contextmenu="false" data-pc-section="bodyrow"><td class="p-selection-column" role="cell" data-p-selectable-cell="false" data-p-selection-column="true" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="p-checkbox p-component" data-p-highlight="false" data-p-disabled="false" role="checkbox" aria-checked="false" aria-label="Row Selected TCK_170084236" data-pc-name="checkbox" data-pc-section="root" bis_skin_checked="1"><input type="checkbox" class="p-checkbox-input" tabindex="0" aria-invalid="false" aria-checked="false" aria-label="Row Selected TCK_170084236" data-pc-section="input"><div class="p-checkbox-box" data-p-highlight="false" data-p-disabled="false" data-pc-section="box" bis_skin_checked="1"></div></div></td><td role="cell" data-p-selectable-cell="false" data-p-selection-column="false" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="finesRowList" bis_skin_checked="1"><div bis_skin_checked="1">BMW M5,  2025,  Blue</div><div bis_skin_checked="1"><span>Date and Time of Issuing The Fine</span>15 Jan 2026, 11:47 am</div><div bis_skin_checked="1"><span>Amount</span>AED 600</div><div bis_skin_checked="1"><span>Source</span>Dubai Police</div><div bis_skin_checked="1"><span>Black points</span> - </div></div></td></tr><tr role="row" aria-selected="false" data-p-selectable-row="false" data-p-highlight="false" data-p-highlight-contextmenu="false" data-pc-section="bodyrow"><td class="p-selection-column" role="cell" data-p-selectable-cell="false" data-p-selection-column="true" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="p-checkbox p-component" data-p-highlight="false" data-p-disabled="false" role="checkbox" aria-checked="false" aria-label="Row Selected TCK_169873928" data-pc-name="checkbox" data-pc-section="root" bis_skin_checked="1"><input type="checkbox" class="p-checkbox-input" tabindex="0" aria-invalid="false" aria-checked="false" aria-label="Row Selected TCK_169873928" data-pc-section="input"><div class="p-checkbox-box" data-p-highlight="false" data-p-disabled="false" data-pc-section="box" bis_skin_checked="1"></div></div></td><td role="cell" data-p-selectable-cell="false" data-p-selection-column="false" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="finesRowList" bis_skin_checked="1"><div bis_skin_checked="1">BMW M5,  2025,  Blue</div><div bis_skin_checked="1"><span>Date and Time of Issuing The Fine</span>04 Jan 2026, 8:36 am</div><div bis_skin_checked="1"><span>Amount</span>AED 600</div><div bis_skin_checked="1"><span>Source</span>Dubai Police</div><div bis_skin_checked="1"><span>Black points</span> - </div></div></td></tr><tr role="row" class="p-row-odd" aria-selected="false" data-p-selectable-row="false" data-p-highlight="false" data-p-highlight-contextmenu="false" data-pc-section="bodyrow"><td class="p-selection-column" role="cell" data-p-selectable-cell="false" data-p-selection-column="true" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="p-checkbox p-component" data-p-highlight="false" data-p-disabled="false" role="checkbox" aria-checked="false" aria-label="Row Selected CTCK_106735610" data-pc-name="checkbox" data-pc-section="root" bis_skin_checked="1"><input type="checkbox" class="p-checkbox-input" tabindex="0" aria-invalid="false" aria-checked="false" aria-label="Row Selected CTCK_106735610" data-pc-section="input"><div class="p-checkbox-box" data-p-highlight="false" data-p-disabled="false" data-pc-section="box" bis_skin_checked="1"></div></div></td><td role="cell" data-p-selectable-cell="false" data-p-selection-column="false" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="finesRowList" bis_skin_checked="1"><div bis_skin_checked="1">TOYOTA COROLLA,  2022,  White</div><div bis_skin_checked="1"><span>Date and Time of Issuing The Fine</span>29 Dec 2025, 10:08 am</div><div bis_skin_checked="1"><span>Amount</span>AED 100</div><div bis_skin_checked="1"><span>Source</span>RTA (Parking Fines)</div><div bis_skin_checked="1"><span>Black points</span> - </div></div></td></tr><tr role="row" aria-selected="false" data-p-selectable-row="false" data-p-highlight="false" data-p-highlight-contextmenu="false" data-pc-section="bodyrow"><td class="p-selection-column" role="cell" data-p-selectable-cell="false" data-p-selection-column="true" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="p-checkbox p-component" data-p-highlight="false" data-p-disabled="false" role="checkbox" aria-checked="false" aria-label="Row Selected TCK_169745791" data-pc-name="checkbox" data-pc-section="root" bis_skin_checked="1"><input type="checkbox" class="p-checkbox-input" tabindex="0" aria-invalid="false" aria-checked="false" aria-label="Row Selected TCK_169745791" data-pc-section="input"><div class="p-checkbox-box" data-p-highlight="false" data-p-disabled="false" data-pc-section="box" bis_skin_checked="1"></div></div></td><td role="cell" data-p-selectable-cell="false" data-p-selection-column="false" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="finesRowList" bis_skin_checked="1"><div bis_skin_checked="1">BMW 330I 2022,  White</div><div bis_skin_checked="1"><span>Date and Time of Issuing The Fine</span>27 Dec 2025, 1:03 pm</div><div bis_skin_checked="1"><span>Amount</span>AED 600</div><div bis_skin_checked="1"><span>Source</span>Dubai Police</div><div bis_skin_checked="1"><span>Black points</span> - </div></div></td></tr><tr role="row" class="p-row-odd" aria-selected="false" data-p-selectable-row="false" data-p-highlight="false" data-p-highlight-contextmenu="false" data-pc-section="bodyrow"><td class="p-selection-column" role="cell" data-p-selectable-cell="false" data-p-selection-column="true" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="p-checkbox p-component" data-p-highlight="false" data-p-disabled="false" role="checkbox" aria-checked="false" aria-label="Row Selected TCK_169702883" data-pc-name="checkbox" data-pc-section="root" bis_skin_checked="1"><input type="checkbox" class="p-checkbox-input" tabindex="0" aria-invalid="false" aria-checked="false" aria-label="Row Selected TCK_169702883" data-pc-section="input"><div class="p-checkbox-box" data-p-highlight="false" data-p-disabled="false" data-pc-section="box" bis_skin_checked="1"></div></div></td><td role="cell" data-p-selectable-cell="false" data-p-selection-column="false" data-p-editable-column="true" data-p-cell-editing="false" data-p-frozen-column="false" data-pc-name="datatable" data-pc-section="bodycell"><div class="finesRowList" bis_skin_checked="1"><div bis_skin_checked="1">BMW 330I 2022,  White</div><div bis_skin_checked="1"><span>Date and Time of Issuing The Fine</span>24 Dec 2025, 9:48 am</div><div bis_skin_checked="1"><span>Amount</span>AED 600</div><div bis_skin_checked="1"><span>Source</span>Dubai Police</div><div bis_skin_checked="1"><span>Black points</span> - </div></div></td></tr></tbody></table></div><div class="p-paginator-bottom p-paginator p-component" data-pc-name="paginator" data-pc-section="root" bis_skin_checked="1"><button type="button" class="p-paginator-first p-paginator-element p-link p-disabled" disabled=""><span class="p-p-3">First</span></button><button type="button" class="p-paginator-prev p-paginator-element p-link p-disabled" disabled=""><span class="p-p-3">Previous</span></button><span class="p-paginator-pages" data-pc-section="pages"><button type="button" class="p-paginator-page p-paginator-element p-link p-paginator-page-start p-highlight" aria-label="Page 1" aria-current="true" data-pc-section="pagebutton">1</button><button type="button" class="p-paginator-page p-paginator-element p-link p-paginator-page-end" aria-label="Page 2" data-pc-section="pagebutton">2</button></span><button type="button" class="p-paginator-next p-paginator-element p-link"><span class="p-p-3">Next</span></button><button type="button" class="p-paginator-last p-paginator-element p-link"><span class="p-p-3">Last</span></button></div></div></div><div class="col-sm-12 col-md-12 col-lg-4 viewDetails" bis_skin_checked="1"><div class="fines-empty-state" bis_skin_checked="1"><span></span><h3>Select a single fine to view its details</h3></div></div></div></div></div></div></div></div></div><div class="newFooterRTA" bis_skin_checked="1"><section class="newConnectWithUs"><div class="dda-container" bis_skin_checked="1"><div class="newConnectWithUs_connect" bis_skin_checked="1"><h2>Engage with Us</h2><p>We are here for you. Do not hesitate to communicate with us via the following channels:</p></div><ul><li><div class="m_Chat" bis_skin_checked="1"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#chat-mahboub"></use></svg><b>Chat with Mahboub</b> Chat and apply for services <br>with Mahboub.</div></li><li><a href="https://www.rta.ae/wps/portal/rta/ae/home/madinati?lang=en"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#ico_majlis"></use></svg><b>Community Engagement Platform</b> Discover our projects, take part in decisions, and more.</a></li><li><a href="https://www.rta.ae/CRMPortal/UI/dashboard?LocaleKey=en" class="feedback_ideas"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#ico_feedback"></use></svg><b>Feedback &amp; Ideas</b> Let us know your ideas, <br>complaints or questions.</a></li><li><a href="mailto:ask@rta.ae;?CSRF47ftjs=t6m6u35b6ik8" class="email_Us"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#email"></use></svg><b>Email Us</b> Send your questions or <br> ideas by email.</a></li></ul></div></section><div class="footerLinks" bis_skin_checked="1"><div class="discoverMore" bis_skin_checked="1">Discover More<svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#chevron"></use></svg></div><div class="container" bis_skin_checked="1"><ul class="row"><li class="col-sm-12 col-md-12 col-lg-3"><h5> About RTA</h5><ul><li><a title="Click here to go to RTA&#39;s contact us page" href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/contactus?lang=en">Contact Us</a></li><li><a title="Click here to view RTA organization chart" href="https://www.rta.ae/wps/portal/rta/ae/home/organization-chart?lang=en">Organization Chart</a></li><li><a target="_blank" title="Click here to go to RTA Careers website - (opens in new window)" href="https://jobs.dubaicareers.ae/careersection/eyov4z5qhfjnsykw9q149t4es7/jobsearch.ftl?lang=en">RTA Careers</a></li><li><a title="Click here to Cyber Security Awareness" href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/cyber-security?lang=en">Cyber Security Awareness</a></li><li><a title="Click here to view Al Masar Magazine" href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/top-pages/al-masar-magazine?lang=en">Al Masar Magazine</a></li><li><a title="Click here to view Salama Magazine" href="https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/salama-magazine?lang=en">Salama Magazine</a></li><li><a title="Click here to Navigate through RTA&#39;s site map" href="https://www.rta.ae/wps/portal/rta/ae/rta-site-map?lang=en">RTA site map</a></li><li><a title="Click here to know more about RTA&#39;s services for people of Determination" href="https://www.rta.ae/wps/portal/rta/ae/home/people-of-determination?lang=en">People of Determination</a></li><li><a title="Click here to go to Policies and Procedures" href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/policies-procedures?lang=en">Policies and Procedures</a></li><li><a title="Click here to view cycling tracks" href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/cycling-track?lang=en">Cycling Track</a></li><li><a title="Click here to go to Community Engagement PlatformX" href="https://www.rta.ae/wps/portal/rta/ae/home/madinati?lang=en">Community Engagement Platform</a></li></ul></li><li class="col-sm-12 col-md-12 col-lg-3"><h5>Public Transport</h5><ul><li><a title="Click here to go to RTA Nol cards page" href="https://www.rta.ae/wps/portal/rta/ae/public-transport/nol/choose-nol?lang=en">nol Cards</a></li><li><a title="Click here to go to RTA Dubai Bus" href="https://www.rta.ae/wps/portal/rta/ae/public-transport#bus-tab?lang=en">Dubai Bus</a></li><li><a title="Click here to go to RTA Dubai Tram" href="https://www.rta.ae/wps/portal/rta/ae/public-transport#tram-tab?lang=en">Dubai Tram</a></li><li><a title="Click here to go to RTA Dubai Taxi" href="https://www.rta.ae/wps/portal/rta/ae/public-transport#taxi-tab?lang=en">Dubai Taxi</a></li><li><a title="Click here to go to RTA Dubai Metro" href="https://www.rta.ae/wps/portal/rta/ae/public-transport#metro-tab?lang=en">Dubai Metro</a></li><li><a title="Click here to know more about Nol card fare calculating" href="https://www.rta.ae/wps/portal/rta/ae/public-transport/Nol-Fares?lang=en">nol Fare</a></li></ul></li><li class="col-sm-12 col-md-12 col-lg-3"><h5>Driver &amp; Car Owner</h5><ul><li><a target="_blank" title="Click here to go to RTA fines inquiry and payment  - (opens in new window) " href="https://traffic.rta.ae/trfesrv/public_resources/ffu/fines-payment.do?switchLanguage=en">Fines Inquiry and Payment</a></li><li><a title="Click here to know more about RTA seasonal parking cards" href="https://www.rta.ae/wps/portal/rta/ae/driver-and-carowner/parking/SeasonalParkingCard?lang=en">Seasonal Parking Cards</a></li><li><a target="_blank" title="Click here to go to RTA Salik page  - (opens in new window)" href="https://www.salik.ae/?lang=en">Salik</a></li><li><a title="Click here to go to RTA parking services" href="https://www.rta.ae/wps/portal/rta/ae/driver-and-carowner/parking/parking-services?lang=en">Parking Services</a></li><li><a target="_blank" title="Click here to go to RTA licensing services  - (opens in new window)" href="https://traffic.rta.ae/trfesrv/public_resources/public-access.do?noCache=1444547795476&amp;switchLanguage=en">Licensing Services</a></li></ul></li><li class="col-sm-12 col-md-12 col-lg-3"><h5>Business &amp; Corporate</h5><ul><li><a title="Click here to know more about the bids announcement" href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/contractors-suppliers/bids-announcement?lang=en">Bids Announcement</a></li><li><a target="_blank" title="Click here to know more about RTA&#39;s eNOC - (opens in new window)" href="https://noc.rta.ae/RTAeNOC/Webpages/common/login/login.aspx?lang=en">eNOC</a></li><li><a title="Click here to know more about the e-prequalification" href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/contractors-suppliers?lang=en">Vendors E-Qualifications</a></li></ul></li></ul></div></div><div class="footerCopyRight" bis_skin_checked="1"><div class="dda-container" bis_skin_checked="1"><div class="row justify-content-between" bis_skin_checked="1"><div class="col-sm-12 col-md-5 col-lg-5" bis_skin_checked="1"><ul class="socialMedia"><li><a href="https://www.facebook.com/rtadubai" target="_blank" title="Click to open RTA Dubai page on Facebook" class="facebook"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#facebook"></use></svg></a></li><li><a href="https://www.instagram.com/rta_dubai" target="_blank" title="Click to open RTA Dubai page on Instagram" class="instagram"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#instagram"></use></svg></a></li><li><a href="https://twitter.com/RTA_Dubai" target="_blank" title="Click to open RTA Dubai page on Twitter" class="twitter"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#twitter"></use></svg></a></li><li><a href="https://www.youtube.com/rtadubaigov" target="_blank" title="Click to open RTA Dubai channel on Youtube" class="youtube"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#youtube"></use></svg></a></li><li><a href="https://www.linkedin.com/company/road-and-transport-authority" target="_blank" title="Click to open RTA Dubai page on Linkedin" class="linkedIn"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#linkedin"></use></svg></a></li><li><a href="https://www.whatsapp.com/channel/0029Vb0udc14SpkOV7DC1K0x" target="_blank" title="Click to open RTA Dubai channel on WhatsApp" class="whatsApp"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#whatsapp"></use></svg></a></li></ul></div><div class="col-sm-12 col-md-6 col-lg-6 smartDubai_icons" bis_skin_checked="1"><a href="https://u.ae/en/" target="_blank" title="Go to u.ae - (opens in new window)" class="governmentAe"></a><a href="https://www.digitaldubai.ae/?lang=en" class="smartDubai" target="_blank" title="Go to Dubai Digital Authority website - (opens in new window)"></a><a href="https://www.dubaipulse.gov.ae/?lang=en" target="_blank" class="dubaiPulse" title="Discover Dubai pulse - (opens in new window)"></a></div></div><div class="row copyRightPush" bis_skin_checked="1"><div class="col-sm-12 col-md-6 col-lg-6" bis_skin_checked="1"><p class="copyRight">Copyright © 2025 <strong>Roads and Transport Authority</strong>, all rights reserved.<span>2026</span></p><p class="copyRight">This site is maintained by the Roads and Transport Authority.</p></div><div class="col-sm-12 col-md-6 col-lg-6" bis_skin_checked="1"><p class="copyRight">The site is best viewed using Microsoft Edge, Mozilla Firefox, Safari and Chrome. <br></p><p class="copyRight modificationDate">Page last modified:<span>22 January 2026</span></p></div></div></div></div><div class="footerHappiness" bis_skin_checked="1"><div class="dda-container footerRibbon" bis_skin_checked="1"><div class="_right" bis_skin_checked="1"><span class="happiness"></span><span class="unifiedInteraction"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/6a6e0be7149c9f26ec036c80016999d1.svg#icon04"></use></svg></span><a href="https://www.rta.ae/wps/portal/rta/ae/home/rta-services?lang=en" target="_self" class="catalogue">Services catalogue</a></div><div class="_left" bis_skin_checked="1"><a href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/contactus?lang=en#findus" target="_self" class="location"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#location-pin"></use></svg>Locations</a><a href="https://www.rta.ae/wps/portal/rta/ae/home/news-and-media?lang=en" target="_self" class="mediaAction"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#notification"></use></svg>Media Center</a><a href="https://www.rta.ae/wps/portal/rta/ae/home/about-rta/contactus?lang=en" target="_self" class="contact"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#email"></use></svg>Contact Us</a><span class="back_top"><svg role="img"><use xlink:href="https://ums.rta.ae/violations/app/../content/6a6e0be7149c9f26ec036c80016999d1.svg#back_to_top"></use></svg></span><a href="https://chat.dubai.ae/?mode=modal&amp;source=RTA&amp;lang=en-US" target="_blank" class="dubai_Ai"></a><span class="chat_mahboub"><svg><use xlink:href="https://ums.rta.ae/violations/app/../content/f5d4d3e51a657d6b787c415cc833519a.svg#chat-mahboub"></use></svg></span></div></div></div></div></div></div></div><noscript><h1>You must enable javascript to view this page.</h1></noscript><script>window.onload = function () {
+            setTimeout(showError, 4000);
+        }
+        function showError() {
+            var errorElm = document.getElementById("jhipster-error");
+            if (errorElm && errorElm.style) {
+                errorElm.style.display = "block";
+            }
+        }</script><script src="./Roads &amp; Transport Authority_files/webReader.js.download" async=""></script><script src="./Roads &amp; Transport Authority_files/toolkit.js.download" async=""></script><script src="./Roads &amp; Transport Authority_files/signsplayer.js.download" async=""></script><script src="./Roads &amp; Transport Authority_files/tooltip_add.js.download" async=""></script><script src="./Roads &amp; Transport Authority_files/mrmegapack.bundle.js.download" async=""></script><script src="./Roads &amp; Transport Authority_files/mr_advwinr1.js.download" async=""></script><script src="./Roads &amp; Transport Authority_files/integrator.js.download" async=""></script><script src="./Roads &amp; Transport Authority_files/integrator-uap.js.download" async=""></script><script defer="defer" src="./Roads &amp; Transport Authority_files/main.4c73b7de48d07f1c6e53.bundle.js.download"></script><script id="f5_cspm">(function(){var f5_cspm={f5_p:'JHHLMCMJLKDMOJDCCELCDLMJEEEPEDACABEEFODFLBKDPKDMLOJLEDFDPGDMFNLCIOOBOHAFAAJLCGLLKKLABGIKAAGDNMIKAGMPFFGJKPBFGEALPCMHDBCHLNHJECJA',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,40,(latency>>8));str=f5_cspm.set_byte(str,41,(latency&0xff));str=f5_cspm.set_byte(str,35,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr0092704262aaaaaaaaaaaaaaaa_cspm_='+encodeURIComponent(cookie_val)+';path=/;'+'';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
+{var d=new Date();d.setTime(d.getTime()-1000);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;'+';';setTimeout(f5_cspm.wait_perf_data,100);}}}}
+f5_cspm.go();}());</script><div id="DeafServicePlace" bis_skin_checked="1"><div id="DeafTranslate" title="Sign Language" style="    margin: 5px;    color: #FFFFFF;" bis_skin_checked="1"><div style="text-align:center;" bis_skin_checked="1"><img alt="Sign Language" src="./Roads &amp; Transport Authority_files/deaficon.png" style="float: left;" width="20"> Sign Language</div></div></div><style>div#DeafServicePlace {   display:none;  cursor: pointer;   width: 260px;    height: 30px;    position: fixed;   bottom: 5px;   background: #181C89;    padding-bottom: 6px;    border-radius: 6px;    left: 5px;z-index:1000000000;}</style><style> #mr_sign_player999{ }</style><style id="mr-activateHighlishStyle">.mr-activate-highlite{font-weight: bold !important; background-color: black !important; color: yellow!important; text-decoration: underline !important; font-size: large !important; padding: 1px;}</style><style id="mr-lineDivCSS">div#Mr-Line-Div { position: fixed; width: 35% !important; height: 18px; background-color: black; z-index: 999999999; left: 0px; top: 0px; border: 5px solid yellow; min-width: 300px; border-radius: 0px 0px 40px 40px; }</style><style id="mr-lineDivHeadCSS">div#Mr-Line-head-Div {position: fixed; width: 19px; height: 20px; background-color: black; z-index: 999999999; left: 20px; top: 0px; border: 5px solid yellow; border-right: 0px; border-bottom: 0px; max-width: 300px; border-radius: 0px 0px 5px 5px; transform: rotate(45deg);}</style><style id="mr-maskCss">.mr-mask{position: fixed; width: 100vw; left: 0px; /* top: 0px; */ min-height: 10px; z-index: 999999; opacity: 0.75; ;background-color:#000000; display: block;}</style><style id="mr-MaskUpCSS">#Mr-MaskUp-Div{top: 0px;border-bottom: 5px solid #272727;}</style><style id="mr-MaskDownCSS">#Mr-MaskDown-Div{bottom: 0px;border-top: 5px solid #272727;}</style><style id="mr-fonts-faces">@font-face { font-family: mrDeslex; src: url(https://cdn.mindrocketsapis.com/client/Fonts/OpenDyslexic-Bold.woff); } @font-face { font-family: mrDeslexAr; src: url(https://cdn.mindrocketsapis.com/client/Fonts/DexAR.woff); } .mr-fontSpace-mini{     letter-spacing: .11em!important;   word-spacing: .17em!important;} .mr-fontSpace-medium{     letter-spacing: .23em!important;word-spacing: .31em!important;} .mr-fontSpace-large{     letter-spacing: .37em!important;word-spacing: .50em!important;} .mr-dex-font{font-family:mrDeslex !important;} .mr-standard-font {font-family:Arial,sans-serif !important;} .mr-SimplifiedAr-font {font-family:"Simplified Arabic", sans-serif !important;} .mr-desAr-font {font-family:mrDeslexAr !important}</style><style id="MrWordsSpacingCSS">.mr-wordspace-mini{word-spacing: .25em!important;} .mr-wordspace-medium{word-spacing: .50em!important;} .mr-wordspace-large{ word-spacing: .75em!important;}</style><style id="mr-LineSpacingCss">.mr-LineSpace-mini{  line-height: 150% !important;} .mr-LineSpace-medium{  line-height: 175% !important;} .mr-LineSpace-high{  line-height: 200% !important;}</style><style id="mr-contrastSetCss">.mr-contrast-invert{filter: invert(1) !important;}</style><style id="MrTabsSwitcherCSS">.MrMUI-tab-switcher {width: max-content;max-width: 20vw;;display: inline-block;cursor: pointer;margin-right: 5px;border-bottom:1px solid #FFFFFF;background-color:#181C89;padding: 2vh;transform: translateY(1px);border-top-left-radius: 8px;border-top-right-radius: 8px}.MrMUI-tab-switcher.MrMUI-active { border-bottom: 1px solid #FFFFFF;transform: translateY(2px);background-color: #FFFFFF;} .MrMUI-tab-switcher > img {filter :  invert(100%) sepia(0%) saturate(3858%) hue-rotate(597deg) brightness(121%) contrast(108%) !important} .MrMUI-tab-switcher.MrMUI-active > img {filter :  invert(0%) sepia(4%) saturate(7486%) hue-rotate(935deg) brightness(98%) contrast(104%) !important} #MRMUIAllTabsContainer{border-radius: 8px} .MrTabsLabel{cursor: pointer;color:#FFFFFF !important ;margin-left:1vw} .MrTabsLabel.MrTabActive {color: #000000 !important}</style><style id="MrMuiCSS">.mr-muiTool{padding: 0vh 1vw 1vw 1vw;width:30vw;max-width:650px;min-width:400px;height:max-content; position : fixed; bottom:5px;background-color:#F5F5F5;text-align:center;z-index : 99999;direction : ltr;max-height :95vh;border: 2px solid #181C89; font-size: 16px;font-weight: 600;border-radius:5px;padding-top: 45px;z-index: 999999999999;} .mr-muiTool.mrMUIToolRight{right : 5px}</style><style id="MrHeaderDivCSS"> .MrMUIHeaderDiv {text-align:center;background-color: #181C89;color: #FFFFFF !important;width: calc(100% + 1px);padding:5px;color:#181C89 ;font-size: 18px ;margin-top: -1px;;border-top-left-radius: 5px;border-top-right-radius: 5px;height:max-content;position: absolute;top: -1px;left: 0px;} </style><style id="MrSearchBoxCSS">.Mr-form-control { width: 80%; height: 34px; padding: 6px 12px; font-size: 14px; line-height: 1.42857143; color: #555; background-color: #fff; background-image: none; border: 1px solid #ccc; border-radius: 4px; -webkit-box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%); box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%); -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s; -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s; transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s; } .mr-btn-bs { background-color:#181C89;color:#FFFFFF ;display: inline-block;     padding: 6px 12px;     margin-bottom: 0;     font-size: 14px;     font-weight: 400;     line-height: 1.42857143;     text-align: center;     white-space: nowrap;     vertical-align: middle;     -ms-touch-action: manipulation;     touch-action: manipulation;     cursor: pointer;     -webkit-user-select: none;     -moz-user-select: none;     -ms-user-select: none;     user-select: none;     background-image: none;     border: 1px solid transparent;     border-radius: 4px;} .mr-btn-bs:hover{color:#FFFFFF}</style><style id="MrPageLandMarkCSS">.mr-page-landmark:hover {background-color: lightgray;} div[mr-target-objectheader]:hover {background-color: lightgray;}</style><style id="MrMuiTabButtonsCSS">.MrMUITabButtons{cursor: pointer;display:flex;flex-direction: column;align-items: center;margin:1%;height: max-content;max-height: 200px;width: 9vw;min-width: 150px;border:1px solid #F5F5F5;padding:25px;flex-grow:1 ; background-color: #F5F5F5;border-radius: 8px} .MrMUITabButtons.MrMUIActivated:not(.mr-light-contrast,.mr-dark-contrast) {background-color:#181C89 !important} .MrMUITabButtons.MrMUIDefault {} .MrMUITabButtons:not(.MrMUILargeButton) {min-height:130px;}</style><style id="MrMuiTabContainerCSS">.MrMUI-tab-container{display: flex;background-color:#FFFFFF;padding: 1vh;width: 100%;height: max-content;max-height: 65vh;overflow:auto;align-items: flex-start;flex-wrap: wrap;;flex-direction: row;justify-content: flex-start;padding-top:12px;border-radius: 8px; margin-bottom:80px;} .MrMUIUlContainer{display: flex;Justify-content: space-between;flex-direction: column;text-align: center;border-radius: 8px} #MrMUiUL {margin-top : 10px} </style><style id="MrMUILargeTabButtonsCSS">.MrMUITabButtons.MrMUIDefault.MrMUILargeButton {width : 100%;float:left;flex-direction:row ; height:max-content !important} .MrMUITabButtons.MrMUIActivated.MrMUILargeButton {width : 100%;float:left;flex-direction:row;height:max-content !important} .MrMUILargeButton > img {margin-right: 2vw;margin-top: 1vh;}</style><style id="MrMUIFooterCSS">.MrBotLogo {cursor: pointer; width: auto !important; height: 40px !important; margin-top: 2%; float: right;} #MrMUIFooter {width:97% ;height: max-content;position: absolute;bottom: 0px;background-color: #F5F5F5;padding: 1vh;} .MrResetToolsBtn{float: left; border: 2px solid #181C89; border-radius: 8px; text-align: center; height: 55px; padding: 8px; cursor: pointer; display: flex; flex-direction: column; align-items: center;} .MrResetToolsBtn:hover {background-color :#181C89 !important} .MrResetToolsBtn > label {color : #000000} .MrResetToolsBtn:hover > label {color : #FFFFFF !important} .MrResetToolsBtn:hover > img {filter :  invert(100%) sepia(5%) saturate(22%) hue-rotate(361deg) brightness(106%) contrast(106%) !important} .MrResetToolsBtn:hover > span {color : #FFFFFF !important} </style><style id="MrResetSettingsContrastFix">.MrResetToolsBtn.mr-light-contrast:hover { background-color: #000000 !important; } .MrResetToolsBtn.mr-light-contrast { border-color: #000000 !important;} </style><style id="resetBtnIconFix">.MrResetToolsBtn img.mr-dark-contrast {filter :  invert(99%) sepia(11%) saturate(1407%) hue-rotate(240deg) brightness(114%) contrast(100%)}</style><style id="MrResetSettingsContrastFix1">.MrResetToolsBtn.mr-dark-contrast:hover { background-color: #000000 !important; } .MrResetToolsBtn.mr-dark-contrast { border-color: #FFFFFF !important;} </style><style id="MrButtonIndexCSS">.MrButtonIndexGroup {display : none;justify-content: center;} .MrButtonIndexLine {width: 2vw;  height: 5px; background-color: #000000; margin: 4px; border-radius: 4px; flex-grow: 1; max-width: 30px; margin-top: 1vh;} .MrButtonIndexLine.MrButtonIndexActive {background-color : #FFFFFF}</style><style id="MrMUIiconsCSS">.MrMUIIcons {filter:   invert(0%) sepia(100%) saturate(20%) hue-rotate(719deg) brightness(101%) contrast(105%)} .MrMUIIcons.MrMUIIconsActive{filter :  invert(100%) sepia(0%) saturate(2103%) hue-rotate(218deg) brightness(118%) contrast(100%)}</style><style id="MrTabsButtonsCSS">.MrTabsButtonsLabel{cursor: pointer;color:#000000;margin-top: 2vh;} .MrTabsButtonsLabel.MrButtonActive:not(.mr-light-contrast,.mr-dark-contrast) {color : #FFFFFF !important} .MrMUITabButtons:hover {border: 3px solid #181C89; padding:23px}</style><style id="MrMuiHeaderCloseBtnCSS">.MrHeaderCloseBtn {cursor: pointer;width: 3%;margin-top: 1%;height:auto;filter :  invert(91%) sepia(92%) saturate(0%) hue-rotate(1053deg) brightness(107%) contrast(99%)}</style><style id="MrFlagsCSS">[data-mrmui-tab-index='2']>div>img.MrMUIIconsNoInvert{ width: 45px; height: auto; }</style><style id="MrMUISmallScreenCSS2">@media (max-width: 800px) { .MrModalWindow { margin-left: -299px !important; width:300px !important;transform: translate(calc(-50% + 300px) , 0px) !important;} .mr-muiTool{ width:97vw !important; max-width:97vw !important ; min-width:0px !important } .MrleftRightBtn{display : none} .MrMUITabButtons {width:100% !important;min-height: 100px !important } .MrMUI-tab-container{max-height:50vh} .MrMUI-tab-switcher{max-width:35vw !important; font-size:11px;padding:1vh}}</style><style id="undefined">.MrMuiprevent-select {-webkit-user-select: none;-ms-user-select: none;user-select: none;}</style><style id="circleLoadingStyle">.mr-main-loading-circle { position: absolute; top: 0; left: 0; right: 0; bottom: 0; margin: auto; width: 100%; height: 100%; border: 4px solid transparent; border-top: 4px solid #FFFFFF;border-radius: 50%; animation: spin 1s linear infinite; mask-composite: exclude;  } @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }</style><div class="mr-muiTool" style="left: 5px; display: none;" bis_skin_checked="1"><div id="MrMUIHeader" class="MrMUIHeaderDiv" bis_skin_checked="1"><label class="MrMuiprevent-select" mrnamear="أدوات التصفح البسيط" mrnameen="Mega Accessibility Pack">Mega Accessibility Pack</label><a href="https://ums.rta.ae/violations/#" onclick="MrUAPHideAssistiveTool();return false;"> <img class="MrHeaderCloseBtn MrMUIIconsNoInvert" style="float:right" alt="Close MUI tool window" src="./Roads &amp; Transport Authority_files/close.png"></a><a href="https://ums.rta.ae/violations/#" onclick="MrUAPLeftRightAssistTool();return false;"><img class="MrHeaderCloseBtn MrMUIIconsNoInvert MrleftRightBtn" style="float:left" alt="Close MUI tool window" src="./Roads &amp; Transport Authority_files/chevron-right.png"></a></div> <div class="MrMUIUlContainer" bis_skin_checked="1"> <div id="MrMUiUL" bis_skin_checked="1"></div></div>  <div id="MRMUIAllTabsContainer" bis_skin_checked="1"></div> <div id="MrMUIFooter" bis_skin_checked="1"><a href="https://ums.rta.ae/violations/#" onclick="MrGoToMindrocketsInc();return false;"> <img class="MrBotLogo" src="./Roads &amp; Transport Authority_files/bottomlogo.png" alt="Access in hand Logo"> </a> <a href="https://ums.rta.ae/violations/#" class="MrResetToolsBtn" mrtitlear="اعادة ضبط الاعدادات" mrtitleen="Reset all Assitive tools" title="Reset all Assitive tools" onclick="MrUAPDisableAllProfiles(true);return false;">  <img id="mrResetProfImg" style="height: 20px !important;" alt="icon for Reset Settings" src="./Roads &amp; Transport Authority_files/Reset.png"> <span mrnamear=" ضبط الأعدادات" mrnameen="Reset Settings">Reset Settings</span></a></div> </div><style id="UIFixs">.MrMUI-tab-container {overflow-x: hidden; overflow-y: auto;} #MrMUIFooter { width: 95%; padding: 5px 0px 5px 5px; } .spinning-border { animation: spin 2s linear infinite; border-top: 2px solid red; border-radius: 50%; width: 10%; height: 100%; position: absolute; }</style><style id="MrdivNoGT">div:has(#\:1\.container){display:none;}body{top:0px !important}</style></body></html>
