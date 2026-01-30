@@ -21,7 +21,7 @@ function App() {
 
     try {
       // Step 1: Get JSON preview
-      const res = await fetch("https://html-to-excel-1.onrender.com/upload?preview=true", {
+      const res = await fetch("https://html-to-xls.onrender.com/upload?preview=true", {
         method: "POST",
         body: formData,
       });
@@ -52,7 +52,7 @@ function App() {
     formData.append("file", file);
 
     try {
-      const res = await fetch("https://html-to-excel-1.onrender.com/upload", {
+      const res = await fetch("https://html-to-xls.onrender.com/upload", {
         method: "POST",
         body: formData,
       });
