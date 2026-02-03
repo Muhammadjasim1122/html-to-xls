@@ -4,7 +4,7 @@ import DataPreview from "./components/DataPreview";
 import ActionPanel from "./components/ActionPanel";
 import "./App.css";
 
-const API_BASE = "http://localhost:5000";
+const API_BASE = "https://fine-extractor-backend.onrender.com";
 
 function App() {
   const [files, setFiles] = useState([]);
